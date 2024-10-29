@@ -27,7 +27,7 @@
 
 فى البداية حمل الاداة بالامر: 
 ```
-https://github.com/DataWhisperers1/WiFi_Hack.git
+git clone https://github.com/DataWhisperers1/WiFi_Hack.git
 ```
 
 1. تثبيت المكتبات اللازمة (إذا لم تكن مثبتة):
